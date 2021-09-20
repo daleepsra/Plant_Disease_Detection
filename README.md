@@ -1,23 +1,14 @@
 # Plant Disease Detection [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-This Website help you to detect disease in your plant🌳 based to the plant's leaf🍃 image
+This Website help you to detect disease in your plan based to the plant's leaf image
 
 ![image](https://github.com/Shubhamai/plant-disease-detection/blob/master/image.jpg)
 
-# The Website is LIVE🔴 [HERE](https://rocky-mountain-81944.herokuapp.com/) !, Check it out
+# The Website is LIVE(https://rocky-mountain-81944.herokuapp.com/)
 
-
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Installation](#installation)
-* [License](#license)
-* [Contact](#contact)
 
 # About the project
 
-This Project takes a apple pant leaf image and predicts that is the plant leaf is healthy or not using Machine learning and Computer Vision.
+This Project takes a plant leaf image and predicts whether the plant leaf is healthy or not using Machine learning and Computer Vision.
 
 # Built With [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
@@ -31,17 +22,24 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Clone the repo ```git clone https://github.com/Shubhamai/plant-disease-detection```
+1. Clone the repo ```git clone https://github.com/daleepsra/Plant_Disease_Detection.git```
 
 2. Run the ```pip install -r requirements.txt``` command.
 
 3. Run ```streamlit run app.py```
 
-## License
+<h2> Dataset for training</h2>
+The dataset used for training and evaluating the model: https://www.kaggle.com/vipoooool/new-plant-diseases-dataset. 
 
-Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
+### I/O
 
-## Contact
-[![Generic badge](https://img.shields.io/badge/Need_Help-Contact_ME!-<COLOR>.svg)](https://shields.io/)
+![image](https://user-images.githubusercontent.com/85610854/133969208-fb4f368f-5ad0-4806-aa22-2579e41f3a44.png)
 
-Shubham Gupta - shubham.aiengineer@gmail.com
+<h2> FLOW CHART </h2>
+
+![image](https://user-images.githubusercontent.com/85610854/133972357-a7c03020-f9c2-407c-b7af-4fc7a9a33452.png)
+
+
+
+
+
