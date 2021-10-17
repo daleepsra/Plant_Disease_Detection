@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 3. Run ```streamlit run app.py```
 
 <h2> Dataset for training</h2>
-The dataset used for training and evaluating the model: https://www.kaggle.com/vipoooool/new-plant-diseases-dataset. 
+The dataset used for training and evaluating the model: https://www.kaggle.com/rmisra/news-category-dataset
 
 ### I/O
 
